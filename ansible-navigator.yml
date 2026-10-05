@@ -12,7 +12,7 @@ ansible-navigator:
 
   execution-environment:
 
-    image: hub.lab.example.com/ee-supported-rhel8:latest
+    image: quay.io/anwarfouad/ansible
 
     pull:
 
